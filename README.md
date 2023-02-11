@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-page-with-interactions-s-ItXyRZ3f](https://www.frontendmentor.io/solutions/responsive-page-with-interactions-s-ItXyRZ3f)
 - Live Site URL: [https://asunamarie.github.io/huddle-landing-page-with-single-introductory-section-master/](https://asunamarie.github.io/huddle-landing-page-with-single-introductory-section-master/)
 
 ## My process
